@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - naveA
+  - planetaTarget
+  - spawnA
+  - guiAterrizajes
+  - guiVidas
+  - gameManager
+  - gameManager_tag
+  - spawnLeft
+  - spawnRight
+  - spawnDown
+  - naveB
+  - naveC
+  - nave
+  - planetA
+  - planetB
+  - planetC
+  - targetRed
+  - targetBlue
+  - targetGreen
+  - next
+  - colisionArea
+  - id
+  - colisionRed
+  - colisionBlue
+  - colisionGreen
+  - shipRed
+  - shipBlue
+  - shipGreen
+  - pause
+  - pauseReplay
+  - skip
+  - repayLoose
+  - asteroide
+  - plane
+  - life
+  - myReplay
+  - timeGame
+  - lastNode
+  - pointer
+  - node
+  - groupNodes
+  - targets
+  - managerHow
+  - buttonLevel
+  - guiBack
+  - frontier
+  - on
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - spawnPointA
+  - back
+  - currentGame
+  - frontCurrent
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 1061888609
+    locked: 0
+  - name: current
+    uniqueID: 4109398113
+    locked: 0
+  - name: front
+    uniqueID: 4199455475
+    locked: 0
